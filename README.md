@@ -458,21 +458,16 @@ dotnet ef migrations remove --project FutureOfWork.Data --startup-project Future
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
 
 ## 👥 Autores
 
-- Desenvolvido para o projeto "O Futuro do Trabalho"
+- Desenvolvido por Pietro Saccarrrão Cougo
 
 ## 🙏 Agradecimentos
 
-- .NET Team pela excelente documentação
-- ML.NET Team pelas ferramentas de Machine Learning
-- Comunidade .NET pelo suporte
+- Professor Humberto pelos ensinamentos
 
 ---
 
-**Desenvolvido com ❤️ usando .NET 9.0**
+**Desenvolvido com horas de trabalho usando .NET 9.0**
 

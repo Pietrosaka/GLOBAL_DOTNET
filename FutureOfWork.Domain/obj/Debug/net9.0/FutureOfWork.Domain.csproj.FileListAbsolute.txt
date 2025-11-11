@@ -1,0 +1,11 @@
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Domain\bin\Debug\net9.0\FutureOfWork.Domain.deps.json
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Domain\bin\Debug\net9.0\FutureOfWork.Domain.dll
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Domain\bin\Debug\net9.0\FutureOfWork.Domain.pdb
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Domain\obj\Debug\net9.0\FutureOfWork.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Domain\obj\Debug\net9.0\FutureOfWork.Domain.AssemblyInfoInputs.cache
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Domain\obj\Debug\net9.0\FutureOfWork.Domain.AssemblyInfo.cs
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Domain\obj\Debug\net9.0\FutureOfWork.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Domain\obj\Debug\net9.0\FutureOfWork.Domain.dll
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Domain\obj\Debug\net9.0\refint\FutureOfWork.Domain.dll
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Domain\obj\Debug\net9.0\FutureOfWork.Domain.pdb
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Domain\obj\Debug\net9.0\ref\FutureOfWork.Domain.dll

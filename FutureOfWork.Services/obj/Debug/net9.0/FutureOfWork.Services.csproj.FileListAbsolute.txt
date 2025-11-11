@@ -1,0 +1,17 @@
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Services\bin\Debug\net9.0\FutureOfWork.Services.deps.json
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Services\bin\Debug\net9.0\FutureOfWork.Services.dll
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Services\bin\Debug\net9.0\FutureOfWork.Services.pdb
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Services\bin\Debug\net9.0\FutureOfWork.Data.dll
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Services\bin\Debug\net9.0\FutureOfWork.Domain.dll
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Services\bin\Debug\net9.0\FutureOfWork.Domain.pdb
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Services\bin\Debug\net9.0\FutureOfWork.Data.pdb
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Services\obj\Debug\net9.0\FutureOfWork.Services.csproj.AssemblyReference.cache
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Services\obj\Debug\net9.0\FutureOfWork.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Services\obj\Debug\net9.0\FutureOfWork.Services.AssemblyInfoInputs.cache
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Services\obj\Debug\net9.0\FutureOfWork.Services.AssemblyInfo.cs
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Services\obj\Debug\net9.0\FutureOfWork.Services.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Services\obj\Debug\net9.0\FutureOf.5A883336.Up2Date
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Services\obj\Debug\net9.0\FutureOfWork.Services.dll
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Services\obj\Debug\net9.0\refint\FutureOfWork.Services.dll
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Services\obj\Debug\net9.0\FutureOfWork.Services.pdb
+C:\Users\pietr\Desktop\DOTNET\FutureOfWork.Services\obj\Debug\net9.0\ref\FutureOfWork.Services.dll
